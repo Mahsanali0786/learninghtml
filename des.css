@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+.header{
+
+    color: white;
+    background: linear-gradient(to right ,blue ,red);
+   
+
+}
+.navigationbar{
+    background: linear-gradient(to right ,green ,yellow);
+    
+
+}
+
+#naviul li{
+    padding: 10px;
+    list-style: none;
+    display: inline-block;
+}
+#naviul li ul{
+    display: none;
+}
+#naviul li:hover ul{
+    display: block;
+}
+.mainbody{
+
+    
+
+
+}
+.content{
+    background: linear-gradient(to right ,red ,yellow);
+
+
+   
+    
+
+}
+.sidebar{
+    color: white;
+    background: linear-gradient(to bottom ,black ,yellow);
+   
+    
+
+
+}
